@@ -1,1 +1,1 @@
-# next-intro
+# component-study
