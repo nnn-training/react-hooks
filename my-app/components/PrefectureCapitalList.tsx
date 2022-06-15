@@ -21,7 +21,7 @@ const PrefectureCapitalList = () => {
         )
       })}
     </div>
-  )
-}
+  );
+};
 
 export default PrefectureCapitalList;
